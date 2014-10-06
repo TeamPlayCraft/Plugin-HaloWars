@@ -8,3 +8,5 @@ The plugin consist in game mode Red vs Blue!
 
 * PLUGIN STATUS:
 - 0%
+
+Depend: [NONE]
